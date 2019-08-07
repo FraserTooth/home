@@ -2,19 +2,16 @@
   "name": "home",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://frasertooth.github.io/home",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "npx gh-pages -d build",
-    "start": "npx react-scripts start",
-    "build": "npx react-scripts build",
-    "test": "npx react-scripts test",
-    "eject": "npx react-scripts eject"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -30,8 +27,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^2.1.0"
   }
 }
