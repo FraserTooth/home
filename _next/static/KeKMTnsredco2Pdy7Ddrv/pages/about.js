@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{Juyh:function(n,u,t){"use strict";t.r(u),t.d(u,"default",function(){return o});var e=t("q1tI"),r=t.n(e).a.createElement;function o(){return r("div",null,r("p",null,"Fraser's Next.js About Page"))}},rB5V:function(n,u,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/about",function(){return t("Juyh")}])}},[["rB5V",1,0]]]);
